@@ -16,3 +16,4 @@ service jenkins start
 cat /var/lib/jenkins/secrets/initialAdminPassword
 #chmod 777 jenkins.sh
 #./jenkins.sh
+# This is a test line please ignore!
